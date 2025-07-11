@@ -11,7 +11,6 @@ Employs CSS properties like perspective and transform to create the 3D effect.
 
 Uses mathematical formulas in CSS for smooth and dynamic rotation and positioning of images.
 
-Fully responsive and visually striking slider without any JavaScript dependencies.
 
 How it Works
 Each image is positioned and rotated in 3D space using CSS transform properties.
@@ -21,6 +20,7 @@ The perspective property is applied to give depth and realism to the slider.
 The rotation and translation of images are controlled through formulas that dynamically space and angle the images for a seamless slider effect.
 
 Technologies Used
+
 HTML5
 
 CSS3 (including perspective, transform, and advanced selectors)
